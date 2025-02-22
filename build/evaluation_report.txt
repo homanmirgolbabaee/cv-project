@@ -1,0 +1,56 @@
+Parking Lot Analysis Report
+==========================
+
+Frame 1:
+  Space Detection:
+    mAP: 0.85
+    Correct Detections: 34
+    False Positives: 6
+    False Negatives: 6
+  Segmentation:
+    mIoU: 6.95309e-310
+
+Frame 2:
+  Space Detection:
+    mAP: 0.85
+    Correct Detections: 34
+    False Positives: 6
+    False Negatives: 6
+  Segmentation:
+    mIoU: 6.95309e-310
+
+Frame 3:
+  Space Detection:
+    mAP: 0.85
+    Correct Detections: 34
+    False Positives: 6
+    False Negatives: 6
+  Segmentation:
+    mIoU: 6.95309e-310
+
+Frame 4:
+  Space Detection:
+    mAP: 0.85
+    Correct Detections: 34
+    False Positives: 6
+    False Negatives: 6
+  Segmentation:
+    mIoU: 6.95309e-310
+
+Frame 5:
+  Space Detection:
+    mAP: 0.85
+    Correct Detections: 34
+    False Positives: 6
+    False Negatives: 6
+  Segmentation:
+    mIoU: 6.95309e-310
+
+
+Summary Statistics
+=================
+Average mAP: 0.85
+Average mIoU: 6.95309e-310
+Total Correct Detections: 170
+Total False Positives: 30
+Total False Negatives: 30
